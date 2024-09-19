@@ -1,0 +1,11 @@
+<svg id="Iconly_Broken_Arrow---Right" data-name="Iconly/Broken/Arrow---Right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.872" height="55.741" viewBox="0 0 53.872 55.741">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.273" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3fb9c4"/>
+      <stop offset="1" stop-color="#56c050"/>
+    </linearGradient>
+  </defs>
+  <g id="Arrow---Right" transform="translate(0 0)">
+    <path id="Path_151" data-name="Path 151" d="M0,27.87a3.072,3.072,0,0,1,2.659-3.062l.381-.024H50.832a3.037,3.037,0,0,1,2.809,1.909,3.117,3.117,0,0,1-.394,3.051l-.27.31L28.45,54.842a3.009,3.009,0,0,1-4.3-.008,3.123,3.123,0,0,1-.265-4.05l.273-.315L43.47,30.955H3.04A3.064,3.064,0,0,1,0,27.87Zm24.161-22.6A3.119,3.119,0,0,1,24.153.907,3.012,3.012,0,0,1,28.142.623L28.454.9,41.978,14.57a3.117,3.117,0,0,1,.008,4.365A3,3,0,0,1,38,19.219l-.312-.276Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
